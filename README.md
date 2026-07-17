@@ -1,2 +1,2 @@
-# ZlotyMD-desktop
-Złoty MD for Desktop
+# ZlotyMD desktop
+[Złoty MD](https://github.com/Rafych/ZlotyMD) for Desktop
